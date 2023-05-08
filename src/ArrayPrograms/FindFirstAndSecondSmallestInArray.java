@@ -1,6 +1,6 @@
 package ArrayPrograms;
 
-public class FindFirstSAndSecondSmallestInArray {
+public class FindFirstAndSecondSmallestInArray {
 
 	public static void main(String[] args) {
 
