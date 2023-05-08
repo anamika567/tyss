@@ -1,6 +1,6 @@
 package ArrayPrograms;
 
-public class PrintSumOfFirst3MaxInArray {
+public class FindSumOfFirst3MaxInArray {
 
 	public static void main(String[] args) {
 
