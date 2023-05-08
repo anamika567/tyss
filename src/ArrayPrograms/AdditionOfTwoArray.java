@@ -5,7 +5,7 @@ public class AdditionOfTwoArray {
 	public static void main(String[] args) {
 
 		int a[]= {2,5,6,4,21};
-		int b[]= {12,2,6,5};
+		int b[]= {12,2,6,5,3,2};
 		
 		int length=a.length;
 		if(a.length<b.length)

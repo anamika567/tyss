@@ -19,7 +19,7 @@ public class CheckPrimeNoInArray {
 			
 			if(flag==true)
 			{
-				System.out.println(x+" prime no.");
+				System.out.println("prime no."+x);
 			}
 			
 		}
