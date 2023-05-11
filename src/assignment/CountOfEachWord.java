@@ -2,7 +2,7 @@ package assignment;
 
 import java.util.LinkedHashSet;
 
-public class Duplicates {
+public class CountOfEachWord {
 
 	public static void main(String[] args) {
 		

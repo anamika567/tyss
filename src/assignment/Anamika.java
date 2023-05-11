@@ -6,7 +6,7 @@ public class Anamika {
 
 		CharSequence ch="anamikasingh"; // aaiaig=8
 		int a = ch.length();
-		String temp = "";
+		String temp ="";
 		int count=2;
 		for(int i=0;i<a;i++)
 		{

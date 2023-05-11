@@ -29,7 +29,7 @@ public class ZigzagArray {
 		System.out.println("Zigzag array:");
 		for(int l=0;l<res.length;l++)
 		{
-			System.out.println(res[l]);
+			System.out.print(res[l]+" ");
 		}	
 	}
 
