@@ -1,6 +1,6 @@
 package programs;
 
-public class SegregateTheAlphabateDigitsSpecialCharactersInString {
+public class SegregateTheAlphabateDigitsSpecialCharInString {
 
 	public static void main(String[] args) {
 		

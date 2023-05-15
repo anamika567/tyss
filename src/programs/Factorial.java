@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class FindFactors {
+public class Factorial {
 
 	public static void main(String[] args) {
 		

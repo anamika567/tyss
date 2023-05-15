@@ -1,6 +1,6 @@
 package programs;
 
-public class CountNoOfUppercaseAndLowercaseCharacterInAString {
+public class CountNoOfUppercaseAndLowercaseCharInAString {
 
 	public static void main(String[] args) {
 		
