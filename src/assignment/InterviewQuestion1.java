@@ -11,18 +11,18 @@ public class InterviewQuestion1 {
 	public static void main(String[] args) {
 
 		int row=5;
-		int col=1;
+		int value=1;
 		
 		String s="aeiou";
 		
 		for(int i=0;i<row;i++)
 		{
-			for(int j=0;j<col;j++)
+			for(int j=0;j<value;j++)
 			{
 				System.out.print(s.charAt(j)+" ");
 			}
-			System.out.println();
-			col++;
+			  System.out.println();
+			  value++;
 		}
 				
 			}

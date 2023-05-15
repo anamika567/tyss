@@ -11,12 +11,12 @@ public class EvenOdd {
 		{
 			if(a[i]%2==0)
 			{
-				even=even+a[i];
+				even=even+a[i]+" ";
 				
 			}
 			else
 			{
-				odd=odd+a[i];
+				odd=odd+a[i]+" ";
 			}
 		}
 		System.out.println(even);

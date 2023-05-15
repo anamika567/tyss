@@ -11,16 +11,6 @@ public class Test {
 			System.out.print((char)(a[i]-32));
 		}
 	
-//		
-//		String s="Hello"; //ELLO
-//		String temp="";
-//		for(int i=1;i<s.length();i++)
-//		{
-//			char c=(char)(s.charAt(i)-32);
-//			temp=temp+c;
-//		}
-//		System.out.println(temp);
-//	
 
 	}
 

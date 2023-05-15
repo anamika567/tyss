@@ -15,11 +15,13 @@ public class FirstAndLastWordCapitalInSentence {
 				for(int j=0;j<st.length();j++)
 				{
 					char ch=(char)(st.charAt(j)-32);
-							System.out.print(ch);
+					System.out.print(ch);
 				}
 			}
 			else
-				System.out.print(" "+st+" ");
+			{
+			  System.out.print(" "+st+" ");
+			}
 		}
 
 	}

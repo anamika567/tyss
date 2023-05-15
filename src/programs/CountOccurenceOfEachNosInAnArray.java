@@ -3,7 +3,7 @@ package programs;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 
-public class OccurenceEachNosInAnArray {
+public class CountOccurenceOfEachNosInAnArray {
 
 	public static void main(String[] args) {
 		
