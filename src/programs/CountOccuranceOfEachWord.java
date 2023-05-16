@@ -9,7 +9,6 @@ public class CountOccuranceOfEachWord {
 		
 		String str="I am from from am Testyantra";
 		String st[]=str.split(" ");
-		
 		LinkedHashSet<String> set=new LinkedHashSet<String>();
 		for(int i=0;i<st.length;i++)
 		{

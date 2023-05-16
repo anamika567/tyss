@@ -2,7 +2,7 @@ package programs;
 
 import java.util.LinkedHashSet;
 
-public class FindPositionOfEachNosWithoutDuplicates {
+public class FindPositionOfEachNoWithoutDuplicates {
 
 	public static void main(String[] args) {
 		
