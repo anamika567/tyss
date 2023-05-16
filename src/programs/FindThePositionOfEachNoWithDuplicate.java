@@ -1,6 +1,6 @@
 package programs;
 
-public class FindPositionOfEachNoWithDuplicate {
+public class FindThePositionOfEachNoWithDuplicate {
 
 	public static void main(String[] args) {
 		
