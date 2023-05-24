@@ -1,6 +1,6 @@
 package programs;
 
-public class FindThe1stAnd2ndMinArrayWithoutBBSort {
+public class FindThe1stAnd2ndMinNoWithoutBBSort {
 
 	public static void main(String[] args) {
 		

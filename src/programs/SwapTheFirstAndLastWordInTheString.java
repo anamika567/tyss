@@ -9,7 +9,7 @@ public class SwapTheFirstAndLastWordInTheString {
 		//a=b;
 		//b=temp
 		
-		String[] st=s.split(" ");
+		String st[]=s.split(" ");
 		//st[0]=Welcome
 		//st[1]=to
 		//st[2]=Bengaluru
@@ -18,6 +18,7 @@ public class SwapTheFirstAndLastWordInTheString {
 		String temp=st[0];
 		st[0]=st[st.length-1];
 		st[st.length-1]=temp;
+		
 		for(int i=0;i<st.length;i++)
 		{
 			System.out.print(st[i]+" ");

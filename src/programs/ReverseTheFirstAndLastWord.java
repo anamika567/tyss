@@ -1,6 +1,6 @@
-package practice_new;
+package programs;
 
-public class ReverseFirstAndLastWord {
+public class ReverseTheFirstAndLastWord {
 
 	public static void main(String[] args) {
 

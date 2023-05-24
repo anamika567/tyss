@@ -1,6 +1,6 @@
 package programs;
 
-public class FindThe1stAnd2ndMaxWithoutBBSort {
+public class FindThe1stAnd2ndMaxNoWithoutBBSort {
 
 	public static void main(String[] args) {
 		

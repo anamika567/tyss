@@ -7,6 +7,7 @@ public class CountNoOfUppercaseAndLowercaseCharInAString {
 		String s="TesTYaNtRa";
 		int uppercase=0;
 		int lowercase=0;
+		
 		for(int i=0;i<s.length();i++)
 		{
 			if(s.charAt(i)>='A' && s.charAt(i)<='Z')

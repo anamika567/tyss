@@ -14,7 +14,8 @@ public class FindPositionOfEachNoWithoutDuplicates {
 		}
 		for(Integer in :set)
 		{
-			for(int i=0;i<a.length;i++) {
+			for(int i=0;i<a.length;i++) 
+			{
 			if(in==a[i])
 			{
 				System.out.println(a[i]+" is in "+(i+1)+" position");

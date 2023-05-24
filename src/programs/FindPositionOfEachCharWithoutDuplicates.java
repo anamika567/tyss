@@ -16,12 +16,13 @@ public class FindPositionOfEachCharWithoutDuplicates {
 		}
 		for(Character it :set)
 		{
-			for(int i=0;i<s.length();i++) {
-			if(it==s.charAt(i))
+			for(int i=0;i<s.length();i++) 
 			{
+			  if(it==s.charAt(i))
+			  {
 				System.out.println(it+" is in "+(i+1)+" position");
 				break;
-			}
+			  }
 		}
 		
 		}
