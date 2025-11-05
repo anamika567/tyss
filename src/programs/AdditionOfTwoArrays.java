@@ -6,7 +6,6 @@ public class AdditionOfTwoArrays {
 		
 		int[] a= {1,5,6,8,4};
 		int[] b= {4,9,7,6};
-
 		int length=a.length; // 5
 		if(a.length<b.length) // 5<4f
 		{

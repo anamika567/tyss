@@ -6,8 +6,8 @@ public class AdditionOfTwoArray {
 
 		int a[]= {2,5,6,4,21};
 		int b[]= {12,2,6,5,3,2};
-		
 		int length=a.length;
+		
 		if(a.length<b.length)
 		{
 			length=b.length;

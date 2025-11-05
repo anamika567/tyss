@@ -4,11 +4,11 @@ public class FindThe1stAnd2ndMaxNoWithoutBBSort {
 
 	public static void main(String[] args) {
 		
-		int[] a= {9,2,5,3,4};
+		int a[]= {9,2,5,3,4,11,25};
 		int fmax=a[0]; //9 9
 		int smax=a[0]; //9 2 5
 		
-		for(int i=0;i<a.length;i++)
+		for(int i=1;i<a.length;i++)
 		{
 			// 0 0<5t 
 			// 1 1<5t 
@@ -21,8 +21,7 @@ public class FindThe1stAnd2ndMaxNoWithoutBBSort {
 				{	
 				smax=fmax;
 				}
-				fmax=a[i];//9
-				
+				fmax=a[i];//9	
 			}
 			else if(fmax==smax||a[i]>smax)//9==5 4>=5 f
 			{

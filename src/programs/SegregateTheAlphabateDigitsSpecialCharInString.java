@@ -4,11 +4,11 @@ public class SegregateTheAlphabateDigitsSpecialCharInString {
 
 	public static void main(String[] args) {
 		
-		String s="vahb@1$bj545"; // o/p :  vhbbj 1545 @$
+		String s="vahb*@1$bj545"; // o/p :  vahbbj1545@$
 
-		String alpha=" ";
-		String digit=" ";
-		String spc=" ";
+		String alpha="";
+		String digit="";
+		String spc="";
 		
 		for(int i=0;i<s.length();i++)
 		{

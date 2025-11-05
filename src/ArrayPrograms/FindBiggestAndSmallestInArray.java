@@ -9,7 +9,6 @@ public class FindBiggestAndSmallestInArray {
 	    int smaller=ar[0];
 		for(int i=0;i<ar.length;i++)
 		{
-		
 			if(bigger<ar[i])
 			{
 				bigger=ar[i];

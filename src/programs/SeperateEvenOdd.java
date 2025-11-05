@@ -18,8 +18,8 @@ public class SeperateEvenOdd {
 				odd=odd+a[i]+" ";
 			}
 		}
-		System.out.println(even);
-		System.out.println(odd);
+		System.out.println("Even no:"+even);
+		System.out.println("Odd no:"+odd);
 	}
 
 }

@@ -1,5 +1,7 @@
 package assignment;
 
+import java.util.Arrays;
+
 public class MergeTwoArrayAndSort {
 
 	public static void main(String[] args) {
@@ -22,19 +24,24 @@ public class MergeTwoArrayAndSort {
 			System.out.print(z[i]+" ");
 		}
 		
-		for(int i=0;i<z.length;i++)
-		{
-			for(int j=i+1;j<z.length;j++)
-			{
-				if(z[i]>z[j])
-				{
-					int temp=z[i];
-					z[i]=z[j];
-					z[j]=temp;
-					
-				}
-			}
-		}
+		// or by using sort method
+		Arrays.sort(z);
+		
+		// by using bubble sort
+		
+//		for(int i=0;i<z.length;i++)
+//		{
+//			for(int j=i+1;j<z.length;j++)
+//			{
+//				if(z[i]>z[j])
+//				{
+//					int temp=z[i];
+//					z[i]=z[j];
+//					z[j]=temp;
+//					
+//				}
+//			}
+//		}
 		System.out.println();
 		for(int i=0;i<z.length;i++)
 		{

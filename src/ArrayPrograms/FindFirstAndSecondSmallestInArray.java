@@ -4,9 +4,9 @@ public class FindFirstAndSecondSmallestInArray {
 
 	public static void main(String[] args) {
 
-		int ar[]= {12,23,25,35,0,5};
+		int ar[]= {12,2,25,35,0,5};
 		int fsmall=ar[0];
-		int ssmall=ar[1];
+		int ssmall=ar[0];
 		for(int i=1;i<ar.length;i++)
 		{
 			if(fsmall>ar[i])

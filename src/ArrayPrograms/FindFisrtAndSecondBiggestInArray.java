@@ -6,7 +6,7 @@ public class FindFisrtAndSecondBiggestInArray {
 
 		int ar[]= {21,32,41,53,11,30};
 		int fbig=ar[0];
-		int sbig=ar[1];
+		int sbig=ar[0];
 		
 		for(int i=1;i<ar.length;i++)
 		{

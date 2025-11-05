@@ -26,7 +26,6 @@ public class DuplicateWordInSentance {
 			}
 			if(count>1)
 			{	
-
 			   System.out.println(it+" is repeating "+count+" times");
 			}
 			

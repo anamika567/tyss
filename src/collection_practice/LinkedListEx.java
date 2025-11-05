@@ -11,6 +11,7 @@ public class LinkedListEx {
 	public static void main(String[] args) {
 		
       LinkedList<Object> list=new LinkedList<Object>();
+      
 		list.add("10");
 		list.add("hi");
 		list.add("hi");
